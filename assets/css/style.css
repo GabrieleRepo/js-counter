@@ -1,0 +1,65 @@
+/* ========================
+   BODY & GLOBAL STYLES
+   ======================== */
+body {
+    font-family: "Rubik", sans-serif;
+    background: #131313;
+}
+
+/* ========================
+   CARDS & CONTAINERS
+   ======================== */
+.custom-card {
+    background-color: #313131;
+    color: white; 
+    border-radius: 20px;
+}
+
+.dark-rounded-block {
+  background: rgba(15, 18, 36, 0.95);
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.7);
+}
+
+/* ========================
+   BUTTONS
+   ======================== */
+.btn {
+  transition: transform 0.2s ease; /* soft transition */
+}
+
+.btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+}
+
+/* ========================
+   BACKGROUND & IMAGES
+   ======================== */
+.background-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('/images/bg_image.jpg');
+    background-size: cover;
+    background-position: center;
+    filter: blur(5px);
+    z-index: -1;
+}
+
+img {
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+}
+
+/* ========================
+   SPECIFIC COLORS / THEMES
+   ======================== */
+.bg-violet {
+  background-color: #27294F;
+  color: white;
+  border-color: #131313;
+}
