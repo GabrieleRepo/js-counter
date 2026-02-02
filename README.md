@@ -83,7 +83,7 @@ The entire interface is dynamically generated using JavaScript and styled with B
 <!-- CONTACT -->
 ## Contact
 
-- [Portfolio](https://gabrielerepo.github.io/portfolio)  
+- Portfolio: [gabrielerepo.github.io](https://gabrielerepo.github.io/portfolio) 
 - GitHub: [GabrieleRepo](https://github.com/GabrieleRepo)
 - LinkedIn: [gabriele-zenobi](https://www.linkedin.com/in/gabriele-zenobi)
 
